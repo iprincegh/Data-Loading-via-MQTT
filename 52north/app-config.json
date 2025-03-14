@@ -1,0 +1,23 @@
+{
+  "defaultService": {
+      "serviceId": "1",
+      "apiUrl": "http://localhost:8081/v1.1/"
+  },
+  "datasetApis": [
+      {
+        "name": "Local SensorThings API",
+        "url": "http://localhost:8081/v1.1/"
+      }
+  ],
+  "languages": [
+      {
+          "label": "Deutsch",
+          "code": "de"
+      },
+      {
+          "label": "English",
+          "code": "en"
+      }
+  ],
+  "supportTimeseriesSymbols": true
+}
